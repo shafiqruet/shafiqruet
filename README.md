@@ -14,7 +14,7 @@ I specialize in transforming complex business requirements into resilient, event
 
 | **Core Pillars** | **Technologies & Tools** |
 | :--- | :--- |
-| **AI & Intelligence** | LLMs (GPT-4, Claude), LangChain, Predictive Analytics, Automation |
+| **Agentic AI & LLM Orchestration | LangGraph, CrewAI, AutoGen | RAG Pipelines | MLOps & Model Governance | Production Agent Deployment |
 | **Fintech Systems** | Digital Gold, Crypto Exchange, Real-time Ledger, Transaction Security |
 | **Architecture** | Spring Boot, Event-Driven Microservices, Distributed Systems |
 | **Backend Mastery** | Python, PHP (Laravel), Ruby, MySQL, PostgreSQL |
